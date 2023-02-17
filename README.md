@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 -->
 <h2> Hey there! I'm Dharshanaa S</h2>
 
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
+
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💬 &nbsp; Currently pursuing Bachelor degree in Computer Science.
