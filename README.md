@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🤔 &nbsp; Exploring new technologies and developing technical knowledge.
 - 🌱 &nbsp; I’m currently learning Web developement and Mobile app developement.
 - 🔭 &nbsp; I’m highly intersted in problem solving & programming using java, Networks, DataBase Management System
+- 📫 &nbsp; reach me @ <a href=dharshanaa.s1114@gmail.com></a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
