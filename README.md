@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💬 &nbsp; Currently pursuing Bachelor degree in Computer Science.
+- 💬 &nbsp; Currently pursuing Bachelor's degree in Computer Science.
 - 🤔 &nbsp; Exploring new technologies and developing technical knowledge.
-- 🌱 &nbsp; I’m currently learning Web developement and Mobile app developement.
-- 🔭 &nbsp; I’m highly intersted in problem solving & programming using java, Networks, DataBase Management System
+- 🌱 &nbsp; I’m currently learning Web development and Mobile app development.
+- 🔭 &nbsp; I’m highly interested in problem solving & programming using java, Networks, DataBase Management System, and Cloud Computing.
 - 📫 &nbsp; reach me @ **dharshanaa.s1114@gmail.com**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
