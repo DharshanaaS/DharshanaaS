@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - 🤔 &nbsp; Exploring new technologies and developing technical knowledge.
 - 🌱 &nbsp; I’m currently learning Web development and Mobile app development.
 - 🔭 &nbsp; I’m highly interested in
--                                    Problem-solving & programming using Java,
--                                    Computer Networking,
--                                    Database Management Systems,
--                                    Cloud Computing.
+- Problem-solving & programming using Java,
+- Computer Networking,
+- Database Management Systems,
+- Cloud Computing.
 - 📫 &nbsp; reach me @ **dharshanaa.s1114@gmail.com**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
