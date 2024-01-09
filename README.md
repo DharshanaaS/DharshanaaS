@@ -9,21 +9,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hey there! I'm Dharshanaa S</h2>
+<h1 align="center">Hi 👋, I'm Dharshanaa S</h1>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💬 &nbsp; Currently pursuing Bachelor's degree in Computer Science.
+- 🔭 &nbsp; I’m in my final year of studies toward a bachelor of engineering in Computer Sciences at Velammal College of Engineering and Technology.
 - 🤔 &nbsp; Exploring new technologies and developing technical knowledge.
-- 🌱 &nbsp; I’m currently learning Web development and Mobile app development.
-- 🔭 &nbsp; I’m highly interested in
-- Problem-solving & programming using Java,
-- Computer Networking,
-- Database Management Systems,
+- 🌱 &nbsp; I’m currently learning <b>Cloud Computing</b>.
+- 💬 &nbsp; Ask me about **JAVA, C, Python, HTML, CSS, SQL**
+- 😄 &nbsp; I’m highly interested in
 - Cloud Computing.
+- Computer Networking.
+- Database Management Systems.
+
 - 📫 &nbsp; reach me @ **dharshanaa.s1114@gmail.com**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
