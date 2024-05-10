@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; I’m in my final year of studies toward a bachelor of engineering in Computer Sciences at Velammal College of Engineering and Technology.
+- 🔭 &nbsp; I’m in my final year of studies towards a Bachelor of Engineering in Computer Science at Velammal College of Engineering and Technology.
 - 🤔 &nbsp; Exploring new technologies and developing technical knowledge.
 - 🌱 &nbsp; I’m currently learning <b>Cloud Computing</b>.
 - 💬 &nbsp; Ask me about **JAVA, C, Python, HTML, CSS, SQL**
