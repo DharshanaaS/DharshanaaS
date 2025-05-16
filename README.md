@@ -16,14 +16,10 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; I’m in my final year of studies towards a Bachelor of Engineering in Computer Science at Velammal College of Engineering and Technology.
-- 🤔 &nbsp; Exploring new technologies and developing technical knowledge.
-- 🌱 &nbsp; I’m currently learning <b>Cloud Computing</b>.
-- 💬 &nbsp; Ask me about **JAVA, C, Python, HTML, CSS, SQL**
-- 😄 &nbsp; I’m highly interested in
-- Cloud Computing.
-- Computer Networking.
-- Database Management Systems.
+- 🔭 &nbsp; Currently working as GET in Sify Technologies LTD 
+- 🤔 &nbsp; Specialized in backup and recovery in Cloud
+- 🌱 &nbsp; I’m currently learning AWS 
+- 💬 &nbsp; Familiar with **JAVA, C, Python, HTML, CSS, SQL**
 
 - 📫 &nbsp; reach me @ **dharshanaa.s1114@gmail.com**
 
