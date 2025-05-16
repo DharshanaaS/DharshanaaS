@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 &nbsp; Currently working as GET in Sify Technologies LTD 
-- 🤔 &nbsp; Specialized in backup and recovery in Cloud
+- 🤔 &nbsp; Specialized in backup and recovery using Commvault, Veeam and Veritas Netbackup
 - 🌱 &nbsp; I’m currently learning AWS 
 - 💬 &nbsp; Familiar with **JAVA, C, Python, HTML, CSS, SQL**
 
